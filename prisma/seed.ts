@@ -90,7 +90,7 @@ async function seedDatabase() {
         name: "Hidratação",
         description: "Hidratação profunda para cabelo e barba.",
         price: 25.0,
-        imageUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allthingshair.com%2Fpt-br%2Fcomo-cuidar-dos-cabelos%2Fmascaras-e-ampolas%2Fmascara-de-hidratacao-certa-para-cada-tipo-de-cabelo%2F&psig=AOvVaw1mCIF80e88lfLwRakRc140&ust=1706756893848000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD5-YTThoQDFQAAAAAdAAAAABAI",
+        imageUrl: "https://utfs.io/f/8a457cda-f768-411d-a737-cdb23ca6b9b5-b3pegf.png",
       },
     ];
 
